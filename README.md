@@ -1,3 +1,3 @@
 # MovieApp
 
-### Movie App created using UIKit and StoryBoard, Using MVC Design Architecture, with URLSessions and Localization.
+### Movie App created using UIKit and StoryBoard, Using MVC Design Architecture, with URLSessions and Localization and different pods.
