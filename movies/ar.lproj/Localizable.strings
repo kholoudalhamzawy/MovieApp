@@ -1,0 +1,17 @@
+//this file has to have the name Localizable
+"Now Playing" = "يعرض الآن";
+"NowPlaying" = "يعرض الآن";
+"Movies" = "أفلام";
+"ar" = "العربية";
+"Search Movie" = "ابحث";
+"Type Something" = "ادخل نص";
+"Trending" = "الشائع";
+"UpComing" = "القادم";
+"Discover" = "اكتشف";
+"Details" = "التفاصيل";
+"log In" = "تسجيل الدخول";
+"register" = "حساب جديد";
+"log out" = "تسجيل الخروج";
+"LanguageButton" = "En";
+"user name" = "اسم المستخدم";
+"password" = "كلمة السر";

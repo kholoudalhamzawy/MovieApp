@@ -1,0 +1,54 @@
+
+/* Class = "UITextField"; placeholder = "search movie"; ObjectID = "1gO-8L-B7Z"; */
+"1gO-8L-B7Z.placeholder" = "search movie";
+
+/* Class = "UITabBarItem"; title = "Movies"; ObjectID = "3sH-q0-v9n"; */
+"3sH-q0-v9n.title" = "Movies";
+
+/* Class = "UILabel"; text = "NowPlaying"; ObjectID = "6u2-OF-avf"; */
+"6u2-OF-avf.text" = "NowPlaying";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ITB-kX-fHM"; */
+"ITB-kX-fHM.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RP7-M9-RZO"; */
+"RP7-M9-RZO.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "Tug-0e-mIA"; */
+"Tug-0e-mIA.title" = "Discover";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "aMP-4s-MhO"; */
+"aMP-4s-MhO.title" = "Discover";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dZ2-Z2-7hm"; */
+"dZ2-Z2-7hm.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "movies"; ObjectID = "e6g-Mi-tpp"; */
+"e6g-Mi-tpp.title" = "movies";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "exH-TX-qVa"; */
+"exH-TX-qVa.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; gF4-lU-Amn.segmentTitles[0] = "NowPlaying"; ObjectID = "gF4-lU-Amn"; */
+"gF4-lU-Amn.segmentTitles[0]" = "NowPlaying";
+
+/* Class = "UISegmentedControl"; gF4-lU-Amn.segmentTitles[1] = "UpComing"; ObjectID = "gF4-lU-Amn"; */
+"gF4-lU-Amn.segmentTitles[1]" = "UpComing";
+
+/* Class = "UISegmentedControl"; gF4-lU-Amn.segmentTitles[2] = "Trending"; ObjectID = "gF4-lU-Amn"; */
+"gF4-lU-Amn.segmentTitles[2]" = "Trending";
+
+/* Class = "UILabel"; text = "Black Adam en"; ObjectID = "lUL-Gz-deM"; */
+"lUL-Gz-deM.text" = "Black Adam en";
+
+/* Class = "UILabel"; text = "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world."; ObjectID = "nD3-j1-Ofq"; */
+"nD3-j1-Ofq.text" = "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.";
+
+/* Class = "UIButton"; configuration.title = "details"; ObjectID = "rP6-d4-FlG"; */
+"rP6-d4-FlG.configuration.title" = "details";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rP6-d4-FlG"; */
+"rP6-d4-FlG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v8B-Lz-LBv"; */
+"v8B-Lz-LBv.text" = "Label";
